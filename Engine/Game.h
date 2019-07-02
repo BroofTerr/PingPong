@@ -40,7 +40,6 @@ private:
 	/********************************/
 	/*  User Functions              */
 	void DrawPoints(int x, int h, Color color);
-	//Add game over text
 
 	/********************************/
 private:
